@@ -1,0 +1,6 @@
+venv/
+venv2/
+src/main/data
+src/main/exported_models
+src/main/resources
+src/main/models
