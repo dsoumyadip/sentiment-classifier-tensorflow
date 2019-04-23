@@ -1,4 +1,4 @@
-# SentimentClassifier_TF
+# Sentiment Classification Using Tensorflow (With Attention)
 
 This is a sentiment classifier machine learning model trained on IMDB Movie review dataset.
 
